@@ -52,3 +52,11 @@
 /Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Humanizer.dll
 /Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
