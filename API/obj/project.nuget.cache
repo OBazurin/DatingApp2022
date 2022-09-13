@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "EhldNS42FW2b9cR+6xF95fpIVzS5IfMkZ+QxrXqoIHZMmHOExCQ1F6EkkdURXPruj/Y50a8nSALX75HfDzfWgQ==",
+  "dgSpecHash": "/Ijdg6e+CdWdTxFth/YtmzfkEcukVDPMWd2NH58FssK3V9ZQN3qgRq3aWkw7HT0DfBXX4/4AGuP2dPuy3x0j+Q==",
   "success": true,
   "projectFilePath": "/Users/oleksandrbazurin/src/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/oleksandrbazurin/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/oleksandrbazurin/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/oleksandrbazurin/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/oleksandrbazurin/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.8/microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",
-    "/Users/oleksandrbazurin/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/oleksandrbazurin/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/oleksandrbazurin/.nuget/packages/microsoft.data.sqlite.core/6.0.8/microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "/Users/oleksandrbazurin/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "/Users/oleksandrbazurin/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.8/microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

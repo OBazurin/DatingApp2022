@@ -60,3 +60,6 @@
 /Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
 /Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/Data/UserSeedData.json
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/AutoMapper.dll
+/Users/oleksandrbazurin/src/DatingApp/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
