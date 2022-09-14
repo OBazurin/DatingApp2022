@@ -145,3 +145,5 @@
 /Users/oleksandrbazurin/src/DatingApp/API.Tests/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/oleksandrbazurin/src/DatingApp/API.Tests/bin/Debug/net6.0/API.dll
 /Users/oleksandrbazurin/src/DatingApp/API.Tests/bin/Debug/net6.0/API.pdb
+/Users/oleksandrbazurin/src/DatingApp/API.Tests/bin/Debug/net6.0/Castle.Core.dll
+/Users/oleksandrbazurin/src/DatingApp/API.Tests/bin/Debug/net6.0/Moq.dll
