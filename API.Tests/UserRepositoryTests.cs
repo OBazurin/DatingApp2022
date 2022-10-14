@@ -9,8 +9,8 @@ namespace API.Tests
 {
     public class UserRepositoryTests
     {
-        private Mock<IUserRepository> _mock = new Mock<IUserRepository>();
-        private DummyRepo _repo ;
+        private readonly Mock<IUserRepository> _mock = new Mock<IUserRepository>();
+        private readonly DummyRepo _repo ;
 
         public UserRepositoryTests()
         {
@@ -30,7 +30,7 @@ namespace API.Tests
         {
             var user = await _repo.GetUserByIdAsync(1);
 
-            Assert.Equal(user.UserName, "Dummy");
+            Assert.Equal("Dummy", user.UserName);
         }
     }
 }
